@@ -2,6 +2,7 @@ import java.lang.String;
 
 public class MyMain {
     public static void main(String[] args) {
+        
         byte byteNumber = 1;
         short shortNumber = 2;
         int number = 3;
@@ -13,9 +14,15 @@ public class MyMain {
 
         int newDouble = (int) doubleNumber;
 
-        String str = new String("Hello");
+        String str = "Hello \"Dunyo\"!";
+        String birinchiRaqam = "10";
+        String ikknichiRaqam = "20";
+        
+        System.out.printf("Kichkina hariflarga o'zgartirish %s \n", str.toLowerCase());
+        System.out.printf("Kotta hariflarga o'zgartirish %s \n", str.toUpperCase());
+        System.out.printf("String raqamlar yeg'indisi %s \n", birinchiRaqam + ikknichiRaqam);
+        System.out.println("________________________________________");
 
-        System.out.println("Salom dunyo");
         System.out.printf("Bu bizning byte turimiz = %s \n", byteNumber);
         System.out.printf("Bu bizning integer turimiz = %s \n", number);
         System.out.printf("Bu bizning shortNumber turimiz = %s \n", shortNumber);
