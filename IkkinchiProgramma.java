@@ -6,5 +6,4 @@ public class IkkinchiProgramma {
         int age = input.nextInt();
         input.close();
         System.out.printf("Kiritilgan malumot %s", age);
-    }
-}
+        {System.out.println Foydalanuvchilar bizning programmamizga o'z login va parollari bilan kirish imkoniyatiga ega bo'lishsin)}       

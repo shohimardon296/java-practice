@@ -6,11 +6,10 @@ public class IkkinchiDars {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("If else shartlari" + ANSI_YELLOW);
-        int x = 20;
         int y = 10;
         if (x >= y) {
-            System.out.println("X kotta yoki teng Y dan" + ANSI_YELLOW);
+            System.out.println("X kotta yoki teng Y dan" + ANSI_YELLOW
+            );
         } else {
             System.out.println("Tepadatig shartlar qoniqtirilmadi!" + ANSI_YELLOW);
         }

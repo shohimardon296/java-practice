@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BirinchiProgramma {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        // Iltimos Loginingizni kiriting!
+        Iltimos Loginingizni kiriting!
         // Login kiritildi
         input.nextLine();
         input.close();
