@@ -8,6 +8,48 @@
       "type": "java",
       "name": "UYGAVAZIFA",
       "request": "launch",
+      "mainClass": "Beshinchi.UYGAVAZIFA",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "BeshinchiDars",
+      "request": "launch",
+      "mainClass": "Beshinchi.BeshinchiDars",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "qwerty",
+      "request": "launch",
+      "mainClass": "qwerty",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "uchinchidars",
+      "request": "launch",
+      "mainClass": "Beshinchi.uchinchidars",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "BeshinchiDarsAsosiy",
+      "request": "launch",
+      "mainClass": "Beshinchi.BeshinchiDarsAsosiy",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "BeshinchiDarsAsosiy",
+      "request": "launch",
+      "mainClass": "BeshinchiDarsAsosiy",
+      "projectName": "Projects_e646fa13"
+    },
+    {
+      "type": "java",
+      "name": "UYGAVAZIFA",
+      "request": "launch",
       "mainClass": "UYGAVAZIFA",
       "projectName": "Projects_e646fa13"
     },

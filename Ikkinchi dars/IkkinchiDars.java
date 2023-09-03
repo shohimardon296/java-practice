@@ -6,6 +6,7 @@ public class IkkinchiDars {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        int x = 11;
         int y = 10;
         if (x >= y) {
             System.out.println("X kotta yoki teng Y dan" + ANSI_YELLOW
